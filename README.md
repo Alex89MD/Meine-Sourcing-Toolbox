@@ -12,4 +12,7 @@ zu sein, sondern wird sicherlich noch um einige Einträge ergänzt werden.
 [BooleanStrings](http://booleanstrings.com/) ENG <br>
 [GlossaryTech](https://blog.glossarytech.com/) ENG <br>
 [HRisnotaCrime](https://hrisnotacrime.com/) GER <br>
-[Recrutainment](https://blog.recrutainment.de/) GER
+[Recrutainment](https://blog.recrutainment.de/) GER <br>
+[Der Mensch im Recruiting](https://www.hzaborowski.de/blog/) GER <br>
+
+
