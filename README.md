@@ -4,6 +4,7 @@
 Hier seht ihr einen überblick der Tools die ich für mein Recruiting bzw. Sourcing nutze. Die Liste erhebt keineswegs den Anspruch komplett
 zu sein, sondern wird sicherlich noch um einige Einträge ergänzt werden. 
 
+=> Die Auflistung habe ich natürlich nicht alleine zusammengestellt. Inspiriert wurde ich hier von Sourcing-Communitys, Konferenzteilnehmer, Meetups etc.
 
 
 
