@@ -37,6 +37,54 @@ zu sein, sondern wird sicherlich noch um einige Einträge ergänzt werden.
 
 
 
+<h2>Tools 🔨🔧 </h2> 
+<br>
+<ul>
+<li>Produktivität ⌛ 
+[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)verschiebt alle deine Extensions und Apps in eine Droipdown-list <br>
+[Multi Highlighter](https://chrome.google.com/webstore/detail/multi-highlight/pfgfgjlejbbpfmcfjhdmikihihddeeji/related)<br>
+[Noisili](https://www.noisli.com/)für einen guten work-flow und konzentration<br>
+
+
+<li>Daten, Statistiken und Content 📈
+
+[SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp) - 
+[Feedly](https://feedly.com/i/discover) - ein News-Aggregator um stets auf dem Laufenden zu bleiben 
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
