@@ -6,4 +6,5 @@ zu sein, sondern wird sicherlich noch um einige Einträge ergänzt werden.
 
 
 [BooleanStrings](http://booleanstrings.com/) <br>
-[GlossaryTech](https://blog.glossarytech.com/)
+[GlossaryTech](https://blog.glossarytech.com/) <br>
+[HRisnotaCrime]
