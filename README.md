@@ -19,3 +19,24 @@ zu sein, sondern wird sicherlich noch um einige Einträge ergänzt werden.
 [Wollmilchsau](https://wollmilchsau.de/) GER
 
 
+<h2>Facebookgruppen zum Thema Recruiting und Sourcing 💻</h2> 
+
+[Social Recruiting & Active Sourcing](https://www.facebook.com/groups/activesourcing/) GER <br> 
+[Badass Recruiters and Sourcers](https://www.facebook.com/groups/BadAss.Recruiters.Sourcers/) ENG <br>
+[Growth Hacking Recruiters](https://www.facebook.com/groups/GrowthHackingRecruiters/) ENG <br>
+
+<h2>Bücher und Magazine 📕📰</h2> 
+
+[Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735) <br>
+[Praxishandbuch Socidal Media Recruiting](https://www.amazon.de/Praxishandbuch-Social-Media-Recruiting-Rechtshinweise/dp/3658162805/) <br>
+[Erfolgreiches Recruiting trotz Fachkräftemangel](https://www.amazon.de/Erfolgreiches-Recruiting-trotz-Fachkräftemangel-Personalbeschaffung/dp/3658131578) <br>
+[Praxiswissen Talentsourcing](https://www.amazon.de/Praxiswissen-Talent-Sourcing-Effiziente-Kombination/dp/3648120786)
+[Personalmagazin](https://www.haufe.de/personal/zeitschrift/personalmagazin/jahrgang-2019-48-88944.html) <br>
+[T3n](https://t3n.de/) 
+[C'T](https://www.heise.de/ct/)
+
+
+
+
+
+
