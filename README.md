@@ -32,7 +32,7 @@ zu sein, sondern wird sicherlich noch um einige Einträge ergänzt werden.
 [Erfolgreiches Recruiting trotz Fachkräftemangel](https://www.amazon.de/Erfolgreiches-Recruiting-trotz-Fachkräftemangel-Personalbeschaffung/dp/3658131578) <br>
 [Praxiswissen Talentsourcing](https://www.amazon.de/Praxiswissen-Talent-Sourcing-Effiziente-Kombination/dp/3648120786)
 [Personalmagazin](https://www.haufe.de/personal/zeitschrift/personalmagazin/jahrgang-2019-48-88944.html) <br>
-[T3n](https://t3n.de/) 
+[T3n](https://t3n.de/) <br>
 [C'T](https://www.heise.de/ct/)
 
 
