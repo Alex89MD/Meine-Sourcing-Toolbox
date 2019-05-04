@@ -7,7 +7,7 @@ zu sein, sondern wird sicherlich noch um einige Einträge ergänzt werden.
 
 
 
-<h2>Blogs die mich interessieren ⌨</h2> 
+<h2>Interessante Blogs ⌨</h2> 
 
 [BooleanStrings](http://booleanstrings.com/) ENG <br>
 [GlossaryTech](https://blog.glossarytech.com/) ENG <br>
