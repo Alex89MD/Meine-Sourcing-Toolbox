@@ -38,17 +38,18 @@ zu sein, sondern wird sicherlich noch um einige Einträge ergänzt werden.
 
 
 
-<h3>Tools 🔨🔧 <br> </h3>
-Produktivität ⌛ <br>
+<h2>Tools 🔨🔧 <br> </h2>
+
+<h1>Produktivität ⌛ <br> </h2>
 [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) verschiebt alle deine Extensions und Apps in eine Droipdown-list <br>
 [Multi Highlighter](https://chrome.google.com/webstore/detail/multi-highlight/pfgfgjlejbbpfmcfjhdmikihihddeeji/related)<br>
 [Niosili](https>://niosili.com)für einen guten work-flow und konzentration <br>
 
 
-<h1>Daten, Statistiken und Content 📈</h1>
+<h2>Daten, Statistiken und Content 📈</h2>
 
-[SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp) zeigt dir Webstatistiken und woher der Website-Traffic kommt<br>
-[Feedly](https://feedly.com/i/discover) ein News-Aggregator um stets auf dem Laufenden zu bleiben 
+(https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp) zeigt dir Webstatistiken und woher der Website-Traffic kommt<br>
+(https://feedly.com/i/discover) ein News-Aggregator um stets auf dem Laufenden zu bleiben <br>
 
 
 
