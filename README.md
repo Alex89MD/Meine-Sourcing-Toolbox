@@ -17,8 +17,8 @@ zu sein, sondern wird sicherlich noch um einige Einträge ergänzt werden.
 [Recrutainment](https://blog.recrutainment.de/) GER <br>
 [Der Mensch im Recruiting](https://www.hzaborowski.de/blog/) GER <br>
 [personalmarketing2null](https://personalmarketing2null.de/) GER <br>
-[Wollmilchsau](https://wollmilchsau.de/) GER
-[Leipziger-HRM-Blog](http://leipzig-hrm-blog.blogspot.com/)<brY
+[Wollmilchsau](https://wollmilchsau.de/) GER <br>
+[Leipziger-HRM-Blog](http://leipzig-hrm-blog.blogspot.com/)<br>
 
 <h2>Facebookgruppen zum Thema Recruiting und Sourcing 💻</h2> 
 
