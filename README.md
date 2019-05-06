@@ -41,7 +41,7 @@ zu sein, sondern wird sicherlich noch um einige Einträge ergänzt werden.
 <h2>Tools 🔨🔧 <br> </h2>
 
 <h3>Produktivität ⌛ <br> </h3>
-[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) verschiebt alle deine Extensions und Apps in eine Droipdown-list <br>
+[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)verschiebt alle deine Extensions und Apps in eine Droipdown-list <br>
 [Multi Highlighter](https://chrome.google.com/webstore/detail/multi-highlight/pfgfgjlejbbpfmcfjhdmikihihddeeji/related)<br>
 [Noisili](https://www.noisli.com) für einen guten Work-Flow, Fokus und konzentration <br>
 
